@@ -6,7 +6,7 @@
 
 int main()
 {
-    //anyt
+    //anythi
     return 0;
 }
 
